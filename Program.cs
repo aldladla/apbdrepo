@@ -1,7 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+using apbdrepo;
+
 Console.WriteLine("Hello, World!");
 
 int a = 5;
 int b = 2;
 int c = a / b;
 Console.WriteLine(c);
+
+
+    Hero hero = new Hero("Geralt", 100);
+    hero.Introduce();
