@@ -10,4 +10,9 @@ public class Hero
         this.name = name;
         this.age = age;
     }
+
+    public void Introduce()
+    {
+        Console.WriteLine($"My name is {name} and I am {age} years old.");
+    }
 }
