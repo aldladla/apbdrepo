@@ -13,4 +13,9 @@ public class StatisticsHelper
 
         return (double)sum / values.Length;
     }
+
+    public static String message()
+    {
+        return "Witaj uzytkowniku!";
+    }
 }
