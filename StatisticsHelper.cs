@@ -45,7 +45,11 @@ public class StatisticsHelper
         Console.WriteLine("to zle miejsce");
         
         return 0;
+
+        
     }
+    
+   
     
     
 }
