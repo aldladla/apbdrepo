@@ -1,0 +1,15 @@
+C:\Users\olekk\Downloads\apbdrepo\bin\Debug\net10.0\apbdrepo.exe
+C:\Users\olekk\Downloads\apbdrepo\bin\Debug\net10.0\apbdrepo.deps.json
+C:\Users\olekk\Downloads\apbdrepo\bin\Debug\net10.0\apbdrepo.runtimeconfig.json
+C:\Users\olekk\Downloads\apbdrepo\bin\Debug\net10.0\apbdrepo.dll
+C:\Users\olekk\Downloads\apbdrepo\bin\Debug\net10.0\apbdrepo.pdb
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.AssemblyInfoInputs.cache
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.AssemblyInfo.cs
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.csproj.CoreCompileInputs.cache
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.sourcelink.json
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.dll
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\refint\apbdrepo.dll
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.pdb
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\apbdrepo.genruntimeconfig.cache
+C:\Users\olekk\Downloads\apbdrepo\obj\Debug\net10.0\ref\apbdrepo.dll
