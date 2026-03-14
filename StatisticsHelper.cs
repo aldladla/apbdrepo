@@ -27,5 +27,6 @@ public class StatisticsHelper
         }
 
         return max;
+        Console.WriteLine("Max value calculated");
     }
 }
