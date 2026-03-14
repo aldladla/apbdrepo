@@ -42,6 +42,8 @@ public class StatisticsHelper
         }
         Console.WriteLine("To chyba nie najlepsza metoda");
         
+        Console.WriteLine("to zle miejsce");
+        
         return 0;
     }
     
