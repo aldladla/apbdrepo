@@ -42,7 +42,7 @@ public class StatisticsHelper
         }
         Console.WriteLine("To chyba nie najlepsza metoda");
         
-        Console.WriteLine("to zle miejsce");
+        Console.WriteLine("to zle miejsceeee");
         
         return 0;
 
