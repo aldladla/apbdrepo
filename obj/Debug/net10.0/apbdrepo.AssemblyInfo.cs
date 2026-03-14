@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apbdrepo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3aebcb5feded59d0d3c44d8f50707d5285f39c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0dd69fdf3e47588163c28d41b2b1d2f8368c137")]
 [assembly: System.Reflection.AssemblyProductAttribute("apbdrepo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apbdrepo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

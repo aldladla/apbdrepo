@@ -13,9 +13,20 @@ public class StatisticsHelper
 
         return (double)sum / values.Length;
     }
-
-    public static String message()
+    
+    public static int CalculateMax(int[] values)
     {
-        return "Witaj uzytkowniku!";
+        int max = values[0];
+
+        foreach (int v in values)
+        {
+            if (v > max)
+            {
+                max = v;
+            }
+        }
+
+        return max;
+        Console.WriteLine("Max value calculated");
     }
 }
