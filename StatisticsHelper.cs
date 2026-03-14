@@ -40,6 +40,7 @@ public class StatisticsHelper
                 min = v;
             }
         }
+        Console.WriteLine("To chyba nie najlepsza metoda");
         
         return 0;
     }
